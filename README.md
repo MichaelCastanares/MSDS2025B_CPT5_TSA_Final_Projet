@@ -1,4 +1,8 @@
-# FinalProject Directory Overview
+# Anticipating Philippine Trade Flows:  Data-Driven Forecasting for Timely Policy Action
+## FinalProject Directory Overview
+
+Authors: Borromeo, Castanares, Garcia, and Tan
+MSDS2025PTB
 
 This directory contains materials and data for a time series analysis project. Below is a brief description of its contents:
 
